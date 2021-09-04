@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:orientation="vertical"
+    android:background="@drawable/gocbotrontacgia"
+    android:layout_height="400dp">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Crazy Math"
+        android:textColor="#FF6633"
+        android:textSize="30dp"
+        android:fontFamily="@font/shojumaru" />
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="180dp"
+        android:layout_height="3dp"
+        android:background="#FF6600"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Giảng Viên hướng dẫn
+        Đỗ Bảo Sơn"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="#FF6633"
+        android:textSize="20dp"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Thành viên nhóm 5: 69DCTM21"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="#fff"
+        android:textSize="15dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Nguyễn Đức Long    69DCTM20053"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="#fff"
+        android:textSize="15dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Nguyễn Thuỳ Dung  69DCTM20017"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="#fff"
+        android:textSize="15dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Cấn Thị Hiền
+                 69DCTM20031"
+        android:fontFamily="@font/alfa_slab_one"
+        android:textColor="#fff"
+        android:textSize="15dp" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CRAZY MATH</string>
+    <string name="hint_name">Tên đăng nhập</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="text_login">Đăng nhập</string>
+    <string name="text_not_member">Bạn chưa có tài khoản? Tạo một cái</string>
+    <string name="text_register">Đăng ký</string>
+    <string name="text_already_member">Bạn đã có tài khoản? Đăng nhập</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+
+</resources>
